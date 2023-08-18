@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "turbo build"
+    "dev": "turbo dev"
   },
   "devDependencies": {
     "turbo": "^1.10.12"
